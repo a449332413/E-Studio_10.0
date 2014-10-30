@@ -10,7 +10,7 @@ body {
 	font-family:"微软雅黑";
 }
 .MinWin_Img {
-	background-image:url(/Img/MinWin.png);
+	background-image:url(../Img/MinWin.png);
 	background-repeat:no-repeat;
 	background-position:center center;
 }
