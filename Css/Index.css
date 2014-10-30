@@ -10,22 +10,22 @@ body {
 	font-family:"微软雅黑";
 }
 .MinWin_Img {
-	background-image:url(Img/MinWin.png);
+	background-image:url(../Img/MinWin.png);
 	background-repeat:no-repeat;
 	background-position:center center;
 }
 .MaxWin_Img {
-	background-image:url(Img/MaxWin.png);
+	background-image:url(../Img/MaxWin.png);
 	background-repeat:no-repeat;
 	background-position:center center;
 }
 .RedWin_Img {
-	background-image:url(Img/RedWin.png);
+	background-image:url(../Img/RedWin.png);
 	background-repeat:no-repeat;
 	background-position:center center;
 }
 .Close_Img {
-	background-image:url(Img/Close.png);
+	background-image:url(../Img/Close.png);
 	background-repeat:no-repeat;
 	background-position:center center;
 }
